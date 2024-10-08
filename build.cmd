@@ -1,5 +1,8 @@
 bcp ^
+    boost/align/aligned_alloc.hpp ^
+    boost/align/aligned_delete.hpp ^
     boost/asio/asio.hpp ^
+    boost/container/flat_map.hpp ^
     boost/container/flat_set.hpp ^
     boost/container/small_vector.hpp ^
     boost/container/static_vector.hpp ^
